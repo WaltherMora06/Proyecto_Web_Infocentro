@@ -10,6 +10,7 @@
                         <input name="nombre" type="text" placeholder="Ingrese Sus Nombres">
                         <input name="apellido" type="text" placeholder="Ingrese Sus Apellidos">
                         <input name="cedula" type="text" placeholder="Ingrese Su Cedula ">
+                        <input name="fecha_nacimiento" type="text" placeholder="Fecha de Nacimiento ">
                         <input type="submit" value="Ingresar">
                         </fieldset>
                         <div class="clearfix"></div>
